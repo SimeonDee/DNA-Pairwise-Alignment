@@ -1,0 +1,30 @@
+c:\users\simeon_dee\documents\visual studio 2013\Projects\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\bin\Debug\PairwiseAlignmentOriginal.exe.config
+c:\users\simeon_dee\documents\visual studio 2013\Projects\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\bin\Debug\PairwiseAlignmentOriginal.exe
+c:\users\simeon_dee\documents\visual studio 2013\Projects\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\bin\Debug\PairwiseAlignmentOriginal.pdb
+c:\users\simeon_dee\documents\visual studio 2013\Projects\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\bin\Debug\PairwiseAlignmentOriginal.xml
+c:\users\simeon_dee\documents\visual studio 2013\Projects\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.Form1.resources
+c:\users\simeon_dee\documents\visual studio 2013\Projects\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.Resources.resources
+c:\users\simeon_dee\documents\visual studio 2013\Projects\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.vbproj.GenerateResource.Cache
+c:\users\simeon_dee\documents\visual studio 2013\Projects\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.exe
+c:\users\simeon_dee\documents\visual studio 2013\Projects\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.xml
+c:\users\simeon_dee\documents\visual studio 2013\Projects\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.pdb
+C:\Users\SIMEON_DEE\Documents\Visual Studio 2013\Projects\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.FrmSplash.resources
+E:\DOYIN DOCS\Projects\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\bin\Debug\PairwiseAlignmentOriginal.exe.config
+E:\DOYIN DOCS\Projects\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.exe
+E:\DOYIN DOCS\Projects\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.xml
+E:\DOYIN DOCS\Projects\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.pdb
+C:\Users\SIMEON_DEE\Desktop\Everest HND Project Pairwise Alignment\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\bin\Debug\PairwiseAlignmentOriginal.exe.config
+C:\Users\SIMEON_DEE\Desktop\Everest HND Project Pairwise Alignment\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.exe
+C:\Users\SIMEON_DEE\Desktop\Everest HND Project Pairwise Alignment\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.xml
+C:\Users\SIMEON_DEE\Desktop\Everest HND Project Pairwise Alignment\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.pdb
+C:\Users\SIMEON_DEE\Desktop\Everest HND Project Pairwise Alignment\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\bin\Debug\PairwiseAlignmentOriginal.exe
+C:\Users\SIMEON_DEE\Desktop\Everest HND Project Pairwise Alignment\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\bin\Debug\PairwiseAlignmentOriginal.pdb
+C:\Users\SIMEON_DEE\Desktop\Everest HND Project Pairwise Alignment\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\bin\Debug\PairwiseAlignmentOriginal.xml
+C:\Users\SIMEON_DEE\Desktop\Everest HND Project Pairwise Alignment\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.Form1.resources
+C:\Users\SIMEON_DEE\Desktop\Everest HND Project Pairwise Alignment\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.FrmSplash.resources
+C:\Users\SIMEON_DEE\Desktop\Everest HND Project Pairwise Alignment\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.Resources.resources
+C:\Users\SIMEON_DEE\Desktop\Everest HND Project Pairwise Alignment\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.vbproj.GenerateResource.Cache
+E:\DOYIN DOCS\Projects\Everest HND Project Pairwise Alignment\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\bin\Debug\PairwiseAlignmentOriginal.exe.config
+E:\DOYIN DOCS\Projects\Everest HND Project Pairwise Alignment\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.exe
+E:\DOYIN DOCS\Projects\Everest HND Project Pairwise Alignment\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.xml
+E:\DOYIN DOCS\Projects\Everest HND Project Pairwise Alignment\PairwiseAlignmentOriginal\PairwiseAlignmentOriginal\obj\Debug\PairwiseAlignmentOriginal.pdb
